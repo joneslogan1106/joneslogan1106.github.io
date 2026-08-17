@@ -268,7 +268,7 @@ MINISTRY = {
     "accent": "var(--acc-ministry)",
     "letter": "U",
     "tagline": "The engine that gives the whole system its \u201cwhy.\u201d",
-    "mission": "The Upper Room Ministry provides daily scriptural teaching, theological reflection, and spiritual discipline grounded in orthodox Christian tradition — serving as both personal practice and public ministry. It is the ethical foundation the rest of The Logan Group is built on, kept clearly separate from academic study of religion.",
+    "mission": "The Upper Room Ministry provides daily scriptural teaching, theological reflection, and spiritual discipline grounded in a non-denominational Christian tradition — serving as both personal practice and public ministry. It is the ethical foundation the rest of The Logan Group is built on, kept clearly separate from academic study of religion.",
     "purpose": [
         "Maintain a non-negotiable daily devotional practice",
         "Publish sermons, reflections, and theological writing to a public audience",
@@ -295,7 +295,7 @@ MINISTRY = {
     "resources": "assets/data/ministry.json",
     "active": True,
     "guardrails": [
-        "Stay within orthodox Christian tradition as understood by the author",
+        "Stay grounded in core, historic Christian conviction without tying it to any single denomination",
         "Keep devotional application distinct from academic study",
         "Avoid sectarian polemics that would narrow the ministry's reach",
         "Lead with humility — \u201chere's what I'm learning,\u201d not \u201chere's absolute truth\u201d",

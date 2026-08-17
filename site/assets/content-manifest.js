@@ -1,0 +1,1 @@
+window.TLG_CONTENT = [];

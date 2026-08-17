@@ -1,20 +1,4 @@
 ---
-tags:
-  - daily
-  - peaceoverproblems
-  - theupperroom
-  - devotion
-DATE: 2026-08-17
-type:
-  - devotional
-verses:
-  - 2 Corinthians 12:9
-  - Isaiah 40:29-31
-  - Philippians 4:13
-  - Ephesians 3:20
-Passage of the Day:
-  - Job 25
-DEVOTION TITLE: The Power of You and God
 title: "The Power of God Through Your Weaknesses"
 slug: "the-power-of-god-through-your-weaknesses"
 category: "Ministry"
